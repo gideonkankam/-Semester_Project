@@ -1,7 +1,7 @@
 # -Semester_Project
 ## Name: GIDEON KANKAM
 ## Index number: UEB3236722
-## Program:BSe.I T 
+## Program:BSC. I.T. C 
 
 Project Description
 
